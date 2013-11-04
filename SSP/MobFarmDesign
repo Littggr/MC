@@ -3,14 +3,19 @@ Base Image -
 Color Scheme - 
 	TBD
 Layout Drawing - 
-	N/A
+	
 Ideas - 
+	9x9 internal tower with spiral stair outside.
+	bottom octagon with controls and storage
+	outer perimeter wall with golumn sentries
+	located in ocean away from main base
+	main entry is by rail on surface of ocean
 	Use soulshard spawners gleaned from graveyard spawners
 	skeleton farm is top priority
-	spider farm is secondary
-	enderman farm is terciary
+	spider farm is available
+	enderman farm is available
 	all others are extra
-	use redstone lamps for on/off control
-	use spikes for mob killing
-	use conveyor belts for moving to central location
-	determine xp and item gathering
+	use wireless computers for on/off control
+	use drop for mob killing
+	use conveyor belts for moving items to central location
+	determine xp gathering
