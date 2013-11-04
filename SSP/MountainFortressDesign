@@ -1,0 +1,26 @@
+Base Image - 
+	N/A
+Color Scheme - 
+	smoothstone, stonebrick, oak
+Layout Drawing - 
+	N/A
+Ideas - 
+	Grand entry into side of mountain
+	towers revealed in upper mountain
+	contains all but farms
+	split into 3 'wings'
+		magic, industrial, and living
+	grand entry enters into main hall.
+	main hall leads to 3 hallways spliting into wings
+	Industrial wing is under main fortress
+		contains PowerCenter, ForgeRoom, SupplyRails, MainProcessingRoom
+		lit by RedstoneLamps
+		color scheme, red, brown, stone
+	Magic wing is split in 2 Towers
+		Contains Enchanting, Thaumcraft, Bibliocraft, BloodMagic(TBD), ArsMagica(TBD)
+		lit by thaumcraft lights
+		color scheme, blue, white, stone
+	Living wing is around main hall
+		contains Library, Kitchen, DinningRoom, FamilyRoom, Bedroom
+		lit by bibliocraft lanterns
+		color scheme, blue, red, stone
