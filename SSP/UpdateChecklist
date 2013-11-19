@@ -1,12 +1,12 @@
-Download updated mods #done
-install MCForge
-Install NEI and dependencies
-pull ID dump in test world
-install mods
-check ID conflicts after each mod install
-verify textures
+Download updated mods ##DONE
+install MCForge##DONE
+Install NEI and dependencies##DONE
+pull ID dump in test world##DONE
+install mods##DONE
+check ID conflicts after each mod install##DONE
+verify textures##DONE
 find fix for missing textures
 trim SSP world copy to current continent
-test worldgen on SSP world copy
+test worldgen on SSP world copy##DONE
 check config changes from 1.6.2
 Play!
