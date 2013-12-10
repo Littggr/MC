@@ -1,0 +1,5 @@
+Ideas - 
+	incoming items for storage block creation go into seperate buffers
+	when 10 items are in the buffer, create a storage block with 9 of them and send 1 through to storage with the completed block
+	use computercraft to monitor the item buffers and control turtles
+	use wireless crafty turtles to make the storage blocks
