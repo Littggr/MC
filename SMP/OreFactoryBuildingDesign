@@ -3,16 +3,12 @@ Base Image -
 Color Scheme - 
 	Stone, Brick, Spruce	
 Layout Drawing - 
-	OreFactoryLayout.pdf
+	N/A
 Ideas - 
 	Spruce Support Pillars outside
-	5 5x7 bays with seperating walls
-	total building is 32x12
-	teired roof with windows
+	3 5x7 bays with seperating walls
 	spruce internal support beams
 	closed power generation in bay 1
-	power storage in bay 2
-	maceration in bay 3
-	cooking in bay 4
-	storage in bay 5
-	control and monitoring in adjacent building
+	non-automated machines in bay 2
+	automation lines in bay 3
+	control and monitoring on second floor
